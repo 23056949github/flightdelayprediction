@@ -211,7 +211,7 @@ def main():
     # Display sub-header with additional information
     st.markdown("""
         <div class='sub-header'>
-            <p>Accurate predictions for flights departing from Singapore Changi Airport. Stay updated with real-time weather and airport conditions.</p>
+            <p>Accurate predictions for flights departing from Singapore Changi Airport. Stay updated with real-time weather.</p>
         </div>
     """, unsafe_allow_html=True)
 
