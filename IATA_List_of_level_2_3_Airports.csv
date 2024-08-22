@@ -1,0 +1,106 @@
+﻿Region,Country,City,Airport Code,scheduledBlockMinutes,airMinutes
+Asia Pacific,Australia,Adelaide,ADL,235,194
+Asia Pacific,Australia,Brisbane,BNE,475,450
+Asia Pacific,Australia,Cairns,CNS,140,113
+Asia Pacific,Australia,Darwin,DRW,440,410
+Asia Pacific,Australia,Melbourne,MEL,470,442
+Asia Pacific,Australia,Perth,PER,320,278
+Asia Pacific,Australia,Sydney,SYD,495,492
+Asia Pacific,Bangladesh,Dhaka,DAC,250,228
+Asia Pacific,Cambodia,Phnom Penh,PNH,495,446
+Asia Pacific,India,Ahmedabad,AMD,1150,1106
+Asia Pacific,India,Bangalore,BLR,285,240
+Asia Pacific,India,Chennai,MAA,255,228
+Asia Pacific,India,Delhi,DEL,345,293
+Asia Pacific,India,Hyderabad,HYD,165,140
+Asia Pacific,India,Kolkata,CCU,265,231
+Asia Pacific,India,Mumbai ,BOM,280,245
+Asia Pacific,India,Trivandrum,TRV,240,206
+Asia Pacific,Indonesia,Denpasar,DPS,155,134
+Asia Pacific,Indonesia,Jakarta,CGK,105,81
+Asia Pacific,Japan,Chubu,NGO,225,185
+Asia Pacific,Japan,Fukuoka,FUK,370,344
+Asia Pacific,Japan,Haneda,HND,420,398
+Asia Pacific,Japan,Osaka-Kansai,KIX,375,358
+Asia Pacific,Japan,Tokyo-Narita,NRT,445,420
+Asia Pacific,Malaysia,Kota Kinabalu,BKI,135,96
+Asia Pacific,Malaysia,Kuala Lumpur,KUL,70,45
+Asia Pacific,Malaysia,Kuchung,KCH,75,39
+Asia Pacific,Malaysia,Langkawi,LGK,115,82
+Asia Pacific,Malaysia,Penang,PEN,75,39
+Asia Pacific,New Zealand,Auckland,AKL,660,633
+Asia Pacific,New Zealand,Christchurch,CHC,250,205
+Asia Pacific,Papua New Guinea,Port Moresby,POM,430,406
+Asia Pacific,Philippines,Manila,MNL,230,185
+Asia Pacific,Republic of Korea,Incheon,ICN,405,353
+Asia Pacific,Republic of Korea,Jeju International Airport,CJU,210,182
+Asia Pacific,Republic of Maldives,Male,MLE,270,244
+Asia Pacific,Singapore,Changi ,SIN,155,112
+Asia Pacific,Sri Lanka,Colombo,CMB,260,261.8417392356072
+Asia Pacific,Thailand,Chiang Mai,CNX,115,90
+Asia Pacific,Thailand,Don Mueang ,DMK,125,98
+Asia Pacific,Thailand,Hat Yai,HDY,800,760
+Asia Pacific,Thailand,Krabi,KBV,275,244
+Asia Pacific,Thailand,Phuket,HKT,120,92
+Asia Pacific,Thailand,Ko Samui ,USM,225,189
+Asia Pacific,Thailand,Suvarnabhumi,BKK,140,111
+Asia Pacific,Vietnam,Hanoi,HAN,105,78
+Asia Pacific,Vietnam,Ho Chi Minh,SGN,110,81
+Europe,Belgium,Brussels,BRU,755,261.8417392356072
+Europe,Denmark,Copenhagen,CPH,750,712
+Europe,Finland,Helsinki,HEL,270,239
+Europe,France,Paris-Ch. De Gaulle,CDG,770,741
+Europe,Germany,Frankfurt,FRA,730,688
+Europe,Germany,Munich,MUC,735,713
+Europe,Italy,Milan - Malpensa,MXP,795,746
+Europe,Italy,Rome - Fiumicino,FCO,720,686
+Europe,Luxembourg,Luxembourg,LUX,290,252
+Europe,Netherlands,Amsterdam,AMS,765,729
+Europe,Spain ,Barcelona,BCN,600,572
+Europe,Switzerland,Zurich,ZRH,730,702
+Europe,Turkey,Ataturk,ISL,630,592
+Europe,United Kingdom,London-Gatwick,LGW,415,470
+Europe,United Kingdom,London-Heathrow,LHR,785,755
+Europe,United Kingdom,Manchester,MAN,785,747
+Middle East and Africa,Bahrain,Bahrain,BAH,405,354
+Middle East and Africa,Qatar,Doha,DOH,125,96
+Middle East and Africa,Saudi Arabia,Jeddah,JED,280,242
+Middle East and Africa,South Africa,Johannesburg,JNB,625,588
+Middle East and Africa,United Arab Emirates,Abu Dhabi,AUH,230,215
+Middle East and Africa,United Arab Emirates,Dubai Al Maktoum International,DWC,215,190
+Middle East and Africa,United Arab Emirates,Dubai International,DXB,375,330
+North Asia,"China, P.R.",Beijing Capital,PEK,590,578
+North Asia,"China, P.R.",Beijing Daxing,PKX,175,133
+North Asia,"China, P.R.",Changsha Huanghua,CSX,335,293
+North Asia,"China, P.R.",Chengdu Shuangliu,CTU,265,261.8417392356072
+North Asia,"China, P.R.",Chengdu Tianfu,TFU,70,65
+North Asia,"China, P.R.",Chongqing Jiangbei ,CKG,265,234
+North Asia,"China, P.R.",Fuzhou Changle,FOC,280,239
+North Asia,"China, P.R.",Guangzhou Baiyun,CAN,230,221
+North Asia,"China, P.R.",Haikou Meilan,HAK,220,178
+North Asia,"China, P.R.",Hangzhou Xiaoshan,HGH,295,272
+North Asia,"China, P.R.",Jinan,TNA,120,83
+North Asia,"China, P.R.",Kunming Changshui,KMG,125,108
+North Asia,"China, P.R.",Nanchang,KHN,290,260
+North Asia,"China, P.R.",Nanjing Lukou,NKG,360,310
+North Asia,"China, P.R.",Nanning,NNG,260,255
+North Asia,"China, P.R.",Qingdao Liuting,TAO,135,116
+North Asia,"China, P.R.",Sanya Fenghuang,SYX,135,129
+North Asia,"China, P.R.",Shanghai Pudong,PVG,320,296
+North Asia,"China, P.R.",Shenyang,SHE,195,261.8417392356072
+North Asia,"China, P.R.",Shenzhen Bao'an,SZX,370,261.8417392356072
+North Asia,"China, P.R.",Tianjin Binhai,TSN,230,206
+North Asia,"China, P.R.",Wuhan Tianhe,WUH,285,259
+North Asia,"China, P.R.",Xi’an Xianyang ,XIY,70,38
+North Asia,"China, P.R.",Xiamen Gaoqi,XMN,300,273
+North Asia,"China, P.R.",Zhengzhou,CGO,495,471
+North Asia,Chinese Taipei,Kaohsiung,KHH,200,174
+North Asia,Chinese Taipei,Taipei,TPE,275,257
+North Asia,"Hong Kong (SAR), China",Hong Kong,HKG,230,193
+North Asia,"Macau (SAR), China",Macau,MFM,95,64
+The Americas,Canada,Vancouver,YVR,965,971
+The Americas,United States,Los Angeles,LAX,1030,994
+The Americas,United States,New York-J.F. Kennedy,JFK,1140,1097
+The Americas,United States,Newark,EWR,770,738
+The Americas,United States,San Francisco,SFO,995,972
+The Americas,United States,Seattle-Tacoma International Airport,SEA,115,85

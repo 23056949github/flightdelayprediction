@@ -1,0 +1,23 @@
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore any sensitive files
+secrets.toml
+
+# Ignore local config files
+*.local
+
